@@ -379,6 +379,7 @@
         <mxCell id="D9LoPAB4W7CQl3o48k34-2" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" target="D9LoPAB4W7CQl3o48k34-1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="298" y="186" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-3" value="Restful API" style="html=1;whiteSpace=wrap;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
