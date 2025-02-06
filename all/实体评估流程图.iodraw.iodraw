@@ -448,7 +448,7 @@
         <mxCell id="D9LoPAB4W7CQl3o48k34-37" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" connectable="0" vertex="1" parent="D9LoPAB4W7CQl3o48k34-35">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D9LoPAB4W7CQl3o48k34-38" value="frame&amp;nbsp;&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="D9LoPAB4W7CQl3o48k34-38" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;PDF Import&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="341" y="138" width="448" height="144" as="geometry" />
         </mxCell>
       </root>
