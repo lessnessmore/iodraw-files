@@ -439,6 +439,24 @@
         <mxCell id="D9LoPAB4W7CQl3o48k34-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="D9LoPAB4W7CQl3o48k34-1" target="D9LoPAB4W7CQl3o48k34-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-34" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="554" y="266" as="sourcePoint" />
+            <mxPoint x="614" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-35" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="266" as="sourcePoint" />
+            <mxPoint x="664" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-36" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" connectable="0" vertex="1" parent="D9LoPAB4W7CQl3o48k34-35">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-37" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" connectable="0" vertex="1" parent="D9LoPAB4W7CQl3o48k34-35">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
