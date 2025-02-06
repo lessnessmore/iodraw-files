@@ -464,8 +464,8 @@
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-57" value="Vector to DB" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="752" y="232" as="sourcePoint" />
-            <mxPoint x="627" y="232" as="targetPoint" />
+            <mxPoint x="605.5" y="339.5" as="sourcePoint" />
+            <mxPoint x="480.5" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
