@@ -439,7 +439,7 @@
         <mxCell id="D9LoPAB4W7CQl3o48k34-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;" vertex="1" parent="1">
           <mxGeometry x="202" y="131" width="21" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="D9LoPAB4W7CQl3o48k34-46" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="D9LoPAB4W7CQl3o48k34-1">
+        <mxCell id="D9LoPAB4W7CQl3o48k34-46" value="Data Process" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="D9LoPAB4W7CQl3o48k34-1" target="D9LoPAB4W7CQl3o48k34-28">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="542" y="446" as="sourcePoint" />
             <mxPoint x="622" y="446" as="targetPoint" />
