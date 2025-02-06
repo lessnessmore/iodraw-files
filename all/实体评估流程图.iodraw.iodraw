@@ -468,7 +468,7 @@
         <mxCell id="D9LoPAB4W7CQl3o48k34-57" value="Releate PDF" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="609.5" y="380" as="sourcePoint" />
-            <mxPoint x="480.5" y="378" as="targetPoint" />
+            <mxPoint x="481" y="382" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-60" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;keyword search&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;width=93;height=23;" vertex="1" parent="1">
@@ -479,6 +479,13 @@
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-63" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#0050ef;" vertex="1" parent="1">
           <mxGeometry x="607" y="477" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-64" value="Sparse Search" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0019" width="80" relative="1" as="geometry">
+            <mxPoint x="491" y="344" as="sourcePoint" />
+            <mxPoint x="617" y="344" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
