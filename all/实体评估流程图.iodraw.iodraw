@@ -269,8 +269,14 @@
         <mxCell id="jn6cZiksdOpxZYIDS3BY-2" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jn6cZiksdOpxZYIDS3BY-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="jn6cZiksdOpxZYIDS3BY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jn6cZiksdOpxZYIDS3BY-3" target="jn6cZiksdOpxZYIDS3BY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jn6cZiksdOpxZYIDS3BY-3" value="Service Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jn6cZiksdOpxZYIDS3BY-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
