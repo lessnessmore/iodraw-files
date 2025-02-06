@@ -307,7 +307,7 @@
         <mxCell id="Y07FIHySxRRvKwPuXkjN-1" value="Input" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="30" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y07FIHySxRRvKwPuXkjN-2" value="Chat" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="Y07FIHySxRRvKwPuXkjN-2" value="chat" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y07FIHySxRRvKwPuXkjN-3" value="keyword search" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
@@ -316,7 +316,7 @@
         <mxCell id="Y07FIHySxRRvKwPuXkjN-4" value="pdf import" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y07FIHySxRRvKwPuXkjN-5" value="Restful Api" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="Y07FIHySxRRvKwPuXkjN-5" value="Restful API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
