@@ -469,6 +469,24 @@
         <mxCell id="D9LoPAB4W7CQl3o48k34-42" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" connectable="0" vertex="1" parent="D9LoPAB4W7CQl3o48k34-40">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-43" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622" y="446" as="sourcePoint" />
+            <mxPoint x="542" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-44" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="502" y="446" as="sourcePoint" />
+            <mxPoint x="662" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9LoPAB4W7CQl3o48k34-45" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="502" y="446" as="sourcePoint" />
+            <mxPoint x="662" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
