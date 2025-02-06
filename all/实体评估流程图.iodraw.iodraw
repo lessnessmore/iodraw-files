@@ -457,14 +457,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9LoPAB4W7CQl3o48k34-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="D9LoPAB4W7CQl3o48k34-28" target="D9LoPAB4W7CQl3o48k34-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="681" y="222" />
-              <mxPoint x="681" y="224" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
