@@ -285,7 +285,7 @@
           <mxGeometry x="230" y="270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jn6cZiksdOpxZYIDS3BY-9" value="Milvus" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="60" height="100" as="geometry" />
+          <mxGeometry x="70" y="280" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jn6cZiksdOpxZYIDS3BY-13" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="150" y="270" width="80" height="20" as="geometry" />
@@ -294,7 +294,7 @@
           <mxGeometry x="230" y="270" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jn6cZiksdOpxZYIDS3BY-15" value="Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="60" height="20" as="geometry" />
+          <mxGeometry x="70" y="280" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
