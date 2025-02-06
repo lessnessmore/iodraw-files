@@ -450,9 +450,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-53" value="Vector to DB" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#949494;strokeWidth=2;" edge="1" parent="1" source="D9LoPAB4W7CQl3o48k34-28" target="D9LoPAB4W7CQl3o48k34-29">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.536" y="13" width="80" relative="1" as="geometry">
             <mxPoint x="717" y="221.5" as="sourcePoint" />
             <mxPoint x="635" y="221.5" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-54" value="Sparse Search" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeColor=#949494;strokeWidth=2;" edge="1" parent="1" source="D9LoPAB4W7CQl3o48k34-18" target="D9LoPAB4W7CQl3o48k34-55">
