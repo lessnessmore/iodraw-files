@@ -275,7 +275,7 @@
         <mxCell id="jn6cZiksdOpxZYIDS3BY-7" value="Chat&lt;br&gt;Complete&lt;br&gt;Embedding" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="150" y="270" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jn6cZiksdOpxZYIDS3BY-8" value="Pdf Import&lt;br&gt;RAG&lt;br&gt;Keyword Search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="jn6cZiksdOpxZYIDS3BY-8" value="RAG&lt;br&gt;Keyword Search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jn6cZiksdOpxZYIDS3BY-9" value="Milvus" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
