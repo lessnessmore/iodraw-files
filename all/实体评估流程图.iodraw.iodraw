@@ -413,7 +413,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LoPAB4W7CQl3o48k34-22" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="286" y="68" width="20" height="300" as="geometry" />
+          <mxGeometry x="285" y="100" width="20" height="326" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
