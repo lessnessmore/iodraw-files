@@ -322,6 +322,9 @@
         <mxCell id="Y07FIHySxRRvKwPuXkjN-7" value="Milvus" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Y07FIHySxRRvKwPuXkjN-8" value="Milvus" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
