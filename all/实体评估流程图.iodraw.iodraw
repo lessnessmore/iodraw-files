@@ -487,7 +487,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9LoPAB4W7CQl3o48k34-66" value="Multi search" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="D9LoPAB4W7CQl3o48k34-66" value="Relate Content" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0019" width="80" relative="1" as="geometry">
             <mxPoint x="617" y="494" as="sourcePoint" />
             <mxPoint x="743" y="494" as="targetPoint" />
