@@ -266,6 +266,9 @@
         <mxCell id="jn6cZiksdOpxZYIDS3BY-1" value="Input" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="150" y="130" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jn6cZiksdOpxZYIDS3BY-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
