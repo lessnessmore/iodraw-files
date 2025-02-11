@@ -314,9 +314,6 @@
         <mxCell id="EhoL70EDv7Xs77Sog7o5-6" value="Chat&lt;br&gt;Complete&lt;br&gt;Embedding" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="578" y="213" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EhoL70EDv7Xs77Sog7o5-7" value="Preserve the Structure" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="478" y="213" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="EhoL70EDv7Xs77Sog7o5-8" value="Image Process" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="418" y="213" width="60" height="100" as="geometry" />
         </mxCell>
