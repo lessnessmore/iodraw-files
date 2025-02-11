@@ -357,7 +357,7 @@
           <mxGeometry x="386" y="530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-10" value="Meta Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="293" y="530" width="93" height="20" as="geometry" />
+          <mxGeometry x="293" y="530" width="79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-11" value="Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="226" y="530" width="67" height="20" as="geometry" />
