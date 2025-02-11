@@ -348,13 +348,13 @@
           <mxGeometry x="226" y="500" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-7" value="ensure semantic coherence" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="386" y="530" width="80" height="100" as="geometry" />
+          <mxGeometry x="365" y="530" width="101" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-8" value="Sparse &amp;amp; Dense Vector Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="226" y="530" width="67" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-9" value="Data Process" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="386" y="530" width="80" height="20" as="geometry" />
+        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-9" value="high performance" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="363" y="530" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-10" value="Meta Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="293" y="530" width="72" height="20" as="geometry" />
