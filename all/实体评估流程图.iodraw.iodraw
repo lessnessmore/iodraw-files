@@ -353,7 +353,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y07FIHySxRRvKwPuXkjN-3" value="Dense Search" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="431" y="148" width="109" height="32" as="geometry" />
+          <mxGeometry x="434" y="149" width="106" height="31" as="geometry" />
         </mxCell>
         <mxCell id="d2mysUFqT6NQYHUR5K2V-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" source="Y07FIHySxRRvKwPuXkjN-5" target="Y07FIHySxRRvKwPuXkjN-2" edge="1">
           <mxGeometry relative="1" as="geometry">
