@@ -347,7 +347,7 @@
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-5" value="deduplicate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="226" y="440" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-6" value="Service Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-6" value="Milvus" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="226" y="500" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-7" value="ensure semantic coherence" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
@@ -364,6 +364,9 @@
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-11" value="OCR" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="226" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-13" value="deduplicate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="236" y="450" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
