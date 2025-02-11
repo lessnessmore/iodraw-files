@@ -329,7 +329,7 @@
         <mxCell id="EhoL70EDv7Xs77Sog7o5-11" value="OCR" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="418" y="213" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Preserve the Structure&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+        <mxCell id="cWag4Pc-CfZ3eXZwEyKa-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Store Law title and Filename&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="291" y="530" width="98" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="cWag4Pc-CfZ3eXZwEyKa-3" target="cWag4Pc-CfZ3eXZwEyKa-5">
