@@ -351,7 +351,7 @@
           <mxGeometry x="386" y="530" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-8" value="Image Process" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="226" y="530" width="60" height="100" as="geometry" />
+          <mxGeometry x="226" y="530" width="67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-9" value="Data Process" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="386" y="530" width="80" height="20" as="geometry" />
