@@ -379,11 +379,11 @@
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-16" value="Selected Law ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WVO-608saRXHuLdLhr4A-15">
           <mxGeometry x="0.2248" y="5" relative="1" as="geometry">
-            <mxPoint x="18" y="-4" as="offset" />
+            <mxPoint x="48" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Manual Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="418" y="443" width="240" height="37" as="geometry" />
+          <mxGeometry x="418" y="454" width="240" height="37" as="geometry" />
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVO-608saRXHuLdLhr4A-6" target="WVO-608saRXHuLdLhr4A-17">
           <mxGeometry relative="1" as="geometry" />
