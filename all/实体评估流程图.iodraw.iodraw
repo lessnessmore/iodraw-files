@@ -382,7 +382,7 @@
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-16" value="Law ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WVO-608saRXHuLdLhr4A-15">
           <mxGeometry x="0.2248" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Manual Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
