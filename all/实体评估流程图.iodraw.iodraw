@@ -380,7 +380,7 @@
         <mxCell id="WVO-608saRXHuLdLhr4A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="WVO-608saRXHuLdLhr4A-5" target="WVO-608saRXHuLdLhr4A-13" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Split &amp;amp; Deduplicate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Manual Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="418" y="427" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-6" value="Milvus(vector database)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
