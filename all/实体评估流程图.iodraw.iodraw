@@ -388,8 +388,8 @@
         <mxCell id="WVO-608saRXHuLdLhr4A-6" value="OA Interface" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="418" y="517" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="527" width="120" height="80" as="geometry" />
+        <mxCell id="WVO-608saRXHuLdLhr4A-17" value="Law Pdf File" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="574" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
