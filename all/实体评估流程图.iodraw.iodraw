@@ -389,7 +389,7 @@
           <mxGeometry x="418" y="517" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WVO-608saRXHuLdLhr4A-17" value="Law Pdf File" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="483" y="574" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="574" width="96" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
