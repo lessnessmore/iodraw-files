@@ -368,6 +368,45 @@
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-13" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="97" y="469" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Store Law title and Filename&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="483" y="547" width="74" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="WVO-608saRXHuLdLhr4A-3" target="WVO-608saRXHuLdLhr4A-5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-3" value="Law List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="418" y="375" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="WVO-608saRXHuLdLhr4A-5" target="WVO-608saRXHuLdLhr4A-13" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Split &amp;amp; Deduplicate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="418" y="427" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-6" value="Milvus(vector database)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="418" y="517" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-7" value="Supports ANN、 filtered、 hybrid search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="557" y="547" width="101" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-8" value="Sparse &amp;amp; Dense Vector Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="418" y="547" width="67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-9" value="High Performance" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="555" y="547" width="103" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-10" value="Meta Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="485" y="547" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-11" value="Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="418" y="547" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="WVO-608saRXHuLdLhr4A-13" target="WVO-608saRXHuLdLhr4A-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVO-608saRXHuLdLhr4A-13" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="418" y="469" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
