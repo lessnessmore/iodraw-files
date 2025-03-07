@@ -596,8 +596,8 @@
         <mxCell id="8ItXdXCmy1QpRPMYrSEg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;strokeWidth=2;endSize=5;startSize=3;" edge="1" parent="1" source="8ItXdXCmy1QpRPMYrSEg-2" target="8ItXdXCmy1QpRPMYrSEg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8ItXdXCmy1QpRPMYrSEg-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="470" width="80" height="50" as="geometry" />
+        <mxCell id="8ItXdXCmy1QpRPMYrSEg-2" value="知识数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="465" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
