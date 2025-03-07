@@ -597,7 +597,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8ItXdXCmy1QpRPMYrSEg-2" value="知识数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.4;" vertex="1" parent="1">
-          <mxGeometry x="90" y="465" width="80" height="35" as="geometry" />
+          <mxGeometry x="90" y="466.25" width="80" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
