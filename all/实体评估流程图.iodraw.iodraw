@@ -599,9 +599,6 @@
         <mxCell id="8ItXdXCmy1QpRPMYrSEg-2" value="知识数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.4;" vertex="1" parent="1">
           <mxGeometry x="90" y="466.25" width="80" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="8ItXdXCmy1QpRPMYrSEg-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
