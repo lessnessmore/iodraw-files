@@ -736,7 +736,7 @@
         <mxCell id="UVakcrxYrMQmpf90E6Ef-9" value="High Performance" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="543" y="262" width="103" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UVakcrxYrMQmpf90E6Ef-10" value="Meta Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+        <mxCell id="UVakcrxYrMQmpf90E6Ef-10" value="search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="473" y="262" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-11" value="Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
