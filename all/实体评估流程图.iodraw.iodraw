@@ -874,6 +874,9 @@
         <mxCell id="Le1wGdv-ddy2LRuc37dC-34" value="FAQ匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="479" width="79" height="58.25" as="geometry" />
         </mxCell>
+        <mxCell id="Le1wGdv-ddy2LRuc37dC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le1wGdv-ddy2LRuc37dC-39" target="Le1wGdv-ddy2LRuc37dC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Le1wGdv-ddy2LRuc37dC-39" value="意图路由" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=5.75;" vertex="1" parent="1">
           <mxGeometry x="501.25" y="620" width="93.5" height="46" as="geometry" />
         </mxCell>
@@ -883,6 +886,9 @@
             <mxPoint x="634" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Le1wGdv-ddy2LRuc37dC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le1wGdv-ddy2LRuc37dC-41" target="Le1wGdv-ddy2LRuc37dC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Le1wGdv-ddy2LRuc37dC-41" value="用户记忆模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#67AB9F;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="364" y="610" width="100" height="39" as="geometry" />
         </mxCell>
@@ -890,7 +896,7 @@
           <mxGeometry x="644" y="600" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Le1wGdv-ddy2LRuc37dC-44" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="150" y="636" width="100" height="34" as="geometry" />
+          <mxGeometry x="414" y="718" width="100" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
