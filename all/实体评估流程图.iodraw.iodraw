@@ -606,13 +606,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADHlv-0H_r6hX1oz6ZID-7" value="用户个性化数据&lt;br&gt;&lt;br&gt;&lt;br&gt;车书数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#665c5c;" vertex="1" parent="1">
-          <mxGeometry x="120" y="529" width="70" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ADHlv-0H_r6hX1oz6ZID-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADHlv-0H_r6hX1oz6ZID-7" target="ADHlv-0H_r6hX1oz6ZID-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="450" y="370" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="430" y="240" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
