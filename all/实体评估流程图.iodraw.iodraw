@@ -749,43 +749,43 @@
           <mxGeometry x="406" y="184" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最近邻检索召回相关的前n条数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="483" y="272" width="72" height="100" as="geometry" />
+          <mxGeometry x="345" y="808" width="72" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="VsDknR_flMEN8Gs-z3LA-3" target="VsDknR_flMEN8Gs-z3LA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-3" value="车书数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="416" y="100" width="240" height="30" as="geometry" />
+          <mxGeometry x="278" y="636" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VsDknR_flMEN8Gs-z3LA-5" target="VsDknR_flMEN8Gs-z3LA-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-5" value="Split &amp;amp; chunks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="416" y="152" width="240" height="30" as="geometry" />
+          <mxGeometry x="278" y="688" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-6" value="sqlite-vec" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="416" y="242" width="240" height="30" as="geometry" />
+          <mxGeometry x="278" y="778" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-7" value="向量和元数据构建成一个虚拟表，提升检索效率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="555" y="272" width="101" height="100" as="geometry" />
+          <mxGeometry x="417" y="808" width="101" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-8" value="vec0 索引" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="416" y="272" width="67" height="100" as="geometry" />
+          <mxGeometry x="278" y="808" width="67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-9" value="元数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="553" y="272" width="103" height="20" as="geometry" />
+          <mxGeometry x="415" y="808" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-10" value="search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="483" y="272" width="72" height="20" as="geometry" />
+          <mxGeometry x="345" y="808" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-11" value="Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="416" y="272" width="67" height="20" as="geometry" />
+          <mxGeometry x="278" y="808" width="67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VsDknR_flMEN8Gs-z3LA-13" target="VsDknR_flMEN8Gs-z3LA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VsDknR_flMEN8Gs-z3LA-13" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="416" y="194" width="240" height="30" as="geometry" />
+          <mxGeometry x="278" y="730" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
