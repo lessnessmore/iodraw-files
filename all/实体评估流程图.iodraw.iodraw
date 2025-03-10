@@ -757,10 +757,10 @@
         <mxCell id="nuwKRGbkz3Ufx8HxEqFM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f5f5f5;strokeColor=#1A1A1A;gradientColor=#b3b3b3;strokeWidth=3;" edge="1" parent="1" source="nuwKRGbkz3Ufx8HxEqFM-4" target="nuwKRGbkz3Ufx8HxEqFM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-4" value="short memory" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-4" value="short memory" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="199" y="659" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-6" value="user base character" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-6" value="user base character" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="379" y="659" width="125" height="31" as="geometry" />
         </mxCell>
         <mxCell id="nuwKRGbkz3Ufx8HxEqFM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f5f5f5;strokeColor=#1A1A1A;gradientColor=#b3b3b3;strokeWidth=3;" edge="1" parent="1" source="nuwKRGbkz3Ufx8HxEqFM-9" target="nuwKRGbkz3Ufx8HxEqFM-4">
@@ -771,13 +771,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="294" y="600" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-11" value="定时总结更新" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-11" value="定时总结更新" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="294" y="733" width="100" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-13" value="长期记忆" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="nuwKRGbkz3Ufx8HxEqFM-13" value="长期记忆" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="294" y="790" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwKRGbkz3Ufx8HxEqFM-14" value="用户记忆模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
