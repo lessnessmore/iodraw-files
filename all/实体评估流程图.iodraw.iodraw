@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X1ctJr9KVizGdaX6KZXv" name="AI LAW 架构图">
-    <mxGraphModel dx="794" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,37 +368,37 @@
         <mxCell id="cWag4Pc-CfZ3eXZwEyKa-13" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="97" y="469" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="WVO-608saRXHuLdLhr4A-3" target="WVO-608saRXHuLdLhr4A-5" parent="1">
+        <mxCell id="WVO-608saRXHuLdLhr4A-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="WVO-608saRXHuLdLhr4A-3" target="WVO-608saRXHuLdLhr4A-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-3" value="Law List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+        <mxCell id="WVO-608saRXHuLdLhr4A-3" value="Law List" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="418" y="391" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVO-608saRXHuLdLhr4A-5" target="WVO-608saRXHuLdLhr4A-6">
+        <mxCell id="WVO-608saRXHuLdLhr4A-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WVO-608saRXHuLdLhr4A-5" target="WVO-608saRXHuLdLhr4A-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-16" value="Selected Law ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WVO-608saRXHuLdLhr4A-15">
+        <mxCell id="WVO-608saRXHuLdLhr4A-16" value="Selected Law ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WVO-608saRXHuLdLhr4A-15" vertex="1" connectable="0">
           <mxGeometry x="0.2248" y="5" relative="1" as="geometry">
             <mxPoint x="48" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Manual Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="WVO-608saRXHuLdLhr4A-5" value="Manual Selection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="418" y="454" width="240" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVO-608saRXHuLdLhr4A-6" target="WVO-608saRXHuLdLhr4A-17">
+        <mxCell id="WVO-608saRXHuLdLhr4A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WVO-608saRXHuLdLhr4A-6" target="WVO-608saRXHuLdLhr4A-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-6" value="OA Interface" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+        <mxCell id="WVO-608saRXHuLdLhr4A-6" value="OA Interface" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="418" y="517" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WVO-608saRXHuLdLhr4A-17" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Selected&amp;nbsp;&lt;/span&gt;Law Pdf File" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WVO-608saRXHuLdLhr4A-17" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Selected&amp;nbsp;&lt;/span&gt;Law Pdf File" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470.5" y="577" width="135" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="OTF52aV0xCGaUHCDPGDS" name="AILAW 流程图">
-    <mxGraphModel dx="794" dy="420" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
