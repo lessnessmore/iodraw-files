@@ -934,7 +934,7 @@
             <mxPoint x="547" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Le1wGdv-ddy2LRuc37dC-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Le1wGdv-ddy2LRuc37dC-34" value="FAQ匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="479" width="79" height="58.25" as="geometry" />
         </mxCell>
       </root>
