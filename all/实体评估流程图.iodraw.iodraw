@@ -710,43 +710,43 @@
           <mxGeometry x="115.5" y="394" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Store Law title and Filename&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="162" y="547" width="74" height="100" as="geometry" />
+          <mxGeometry x="471" y="262" width="74" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UVakcrxYrMQmpf90E6Ef-3" target="UVakcrxYrMQmpf90E6Ef-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UVakcrxYrMQmpf90E6Ef-3" value="Law data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="97" y="375" width="240" height="30" as="geometry" />
+        <mxCell id="UVakcrxYrMQmpf90E6Ef-3" value="车书和历史会话数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="406" y="90" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVakcrxYrMQmpf90E6Ef-5" target="UVakcrxYrMQmpf90E6Ef-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-5" value="Split &amp;amp; Deduplicate" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="97" y="427" width="240" height="30" as="geometry" />
+          <mxGeometry x="406" y="142" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-6" value="Milvus(vector database)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="97" y="517" width="240" height="30" as="geometry" />
+          <mxGeometry x="406" y="232" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-7" value="Supports ANN、 filtered、 hybrid search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="236" y="547" width="101" height="100" as="geometry" />
+          <mxGeometry x="545" y="262" width="101" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-8" value="Sparse &amp;amp; Dense Vector Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="97" y="547" width="67" height="100" as="geometry" />
+          <mxGeometry x="406" y="262" width="67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-9" value="High Performance" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="234" y="547" width="103" height="20" as="geometry" />
+          <mxGeometry x="543" y="262" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-10" value="Meta Data" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="164" y="547" width="72" height="20" as="geometry" />
+          <mxGeometry x="473" y="262" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-11" value="Index" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="97" y="547" width="67" height="20" as="geometry" />
+          <mxGeometry x="406" y="262" width="67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVakcrxYrMQmpf90E6Ef-13" target="UVakcrxYrMQmpf90E6Ef-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-13" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="97" y="469" width="240" height="30" as="geometry" />
+          <mxGeometry x="406" y="184" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
