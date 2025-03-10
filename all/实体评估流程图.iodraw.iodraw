@@ -605,6 +605,9 @@
         <mxCell id="ADHlv-0H_r6hX1oz6ZID-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="ADHlv-0H_r6hX1oz6ZID-3" target="8ItXdXCmy1QpRPMYrSEg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ADHlv-0H_r6hX1oz6ZID-7" value="用户个性化数据&lt;br&gt;&lt;br&gt;&lt;br&gt;车书数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#665c5c;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="390" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
