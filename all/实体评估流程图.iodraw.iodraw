@@ -682,7 +682,7 @@
         <mxCell id="sHkyU6txhRnMJBMmnOQl-7" value="ensure semantic coherence" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="209" y="213" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sHkyU6txhRnMJBMmnOQl-8" value="Image Process" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+        <mxCell id="sHkyU6txhRnMJBMmnOQl-8" value="标记所有的图片数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="49" y="213" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sHkyU6txhRnMJBMmnOQl-9" value="Data Process" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
