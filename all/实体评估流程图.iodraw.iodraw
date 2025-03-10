@@ -905,7 +905,7 @@
           <mxGeometry x="590" y="691.5" width="100" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Le1wGdv-ddy2LRuc37dC-51" value="用户记忆模块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#67AB9F;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="649" y="612" width="90" height="39" as="geometry" />
+          <mxGeometry x="628" y="612" width="90" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
