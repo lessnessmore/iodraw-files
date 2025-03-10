@@ -679,7 +679,7 @@
         <mxCell id="sHkyU6txhRnMJBMmnOQl-6" value="车书精洗" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="49" y="183" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sHkyU6txhRnMJBMmnOQl-7" value="ensure semantic coherence" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
+        <mxCell id="sHkyU6txhRnMJBMmnOQl-7" value="将所有正文数据的一二级标题重建" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="209" y="213" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sHkyU6txhRnMJBMmnOQl-8" value="标记所有的图片数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
