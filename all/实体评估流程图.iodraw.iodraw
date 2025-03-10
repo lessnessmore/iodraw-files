@@ -661,6 +661,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sHkyU6txhRnMJBMmnOQl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHkyU6txhRnMJBMmnOQl-1" target="sHkyU6txhRnMJBMmnOQl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sHkyU6txhRnMJBMmnOQl-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;针对车书中页眉页脚、目录等冗余数据删除&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="109" y="213" width="103" height="100" as="geometry" />
         </mxCell>
