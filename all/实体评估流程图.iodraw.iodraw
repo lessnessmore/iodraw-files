@@ -618,7 +618,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ADHlv-0H_r6hX1oz6ZID-15" value="个性化对话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="70" height="30" as="geometry" />
+          <mxGeometry x="270" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ADHlv-0H_r6hX1oz6ZID-16" value="个性化对话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
