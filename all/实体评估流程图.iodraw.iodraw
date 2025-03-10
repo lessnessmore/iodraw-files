@@ -623,10 +623,10 @@
         <mxCell id="ADHlv-0H_r6hX1oz6ZID-16" value="车书问答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ADHlv-0H_r6hX1oz6ZID-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="ADHlv-0H_r6hX1oz6ZID-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ADHlv-0H_r6hX1oz6ZID-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="589" as="sourcePoint" />
-            <mxPoint x="239" y="589" as="targetPoint" />
+            <mxPoint x="345" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
