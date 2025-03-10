@@ -874,8 +874,8 @@
         <mxCell id="Le1wGdv-ddy2LRuc37dC-34" value="FAQ匹配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="479" width="79" height="58.25" as="geometry" />
         </mxCell>
-        <mxCell id="Le1wGdv-ddy2LRuc37dC-39" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="563" width="120" height="80" as="geometry" />
+        <mxCell id="Le1wGdv-ddy2LRuc37dC-39" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=30;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="620" width="91" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
