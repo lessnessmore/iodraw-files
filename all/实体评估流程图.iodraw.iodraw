@@ -775,7 +775,7 @@
           <mxGeometry x="140" y="626" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwKRGbkz3Ufx8HxEqFM-11" value="定时总结更新" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="140" y="759" width="100" height="27" as="geometry" />
+          <mxGeometry x="140" y="759" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="nuwKRGbkz3Ufx8HxEqFM-13" value="长期记忆" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="140" y="816" width="100" height="30" as="geometry" />
@@ -808,6 +808,7 @@
             <mxPoint x="404" y="774" as="targetPoint" />
             <Array as="points">
               <mxPoint x="288" y="773" />
+              <mxPoint x="240" y="773" />
             </Array>
           </mxGeometry>
         </mxCell>
