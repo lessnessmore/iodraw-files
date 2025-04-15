@@ -31,7 +31,7 @@
         <mxCell id="b4dlFitdKbIA1fIOIVNn-9" value="Knowledge Base" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="b4dlFitdKbIA1fIOIVNn-1" vertex="1">
           <mxGeometry x="540" y="130" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b4dlFitdKbIA1fIOIVNn-14" value="Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="b4dlFitdKbIA1fIOIVNn-1" vertex="1">
+        <mxCell id="b4dlFitdKbIA1fIOIVNn-14" value="向量数据入库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="b4dlFitdKbIA1fIOIVNn-1" vertex="1">
           <mxGeometry x="484" y="140" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b4dlFitdKbIA1fIOIVNn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="b4dlFitdKbIA1fIOIVNn-1" source="b4dlFitdKbIA1fIOIVNn-17" target="b4dlFitdKbIA1fIOIVNn-20" edge="1">
