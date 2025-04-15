@@ -29,7 +29,7 @@
           <mxGeometry x="370" y="142.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b4dlFitdKbIA1fIOIVNn-9" value="Knowledge Base" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="b4dlFitdKbIA1fIOIVNn-1" vertex="1">
-          <mxGeometry x="544" y="145" width="60" height="40" as="geometry" />
+          <mxGeometry x="540" y="130" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b4dlFitdKbIA1fIOIVNn-14" value="Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="b4dlFitdKbIA1fIOIVNn-1" vertex="1">
           <mxGeometry x="484" y="140" width="60" height="25" as="geometry" />
