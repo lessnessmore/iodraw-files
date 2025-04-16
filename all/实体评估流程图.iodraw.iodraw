@@ -107,7 +107,10 @@
           <mxGeometry x="389" y="768" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="52BKm61KnsUmxTflWxP2-6" value="问题相关车书数据块（releated_block)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="b4dlFitdKbIA1fIOIVNn-1">
-          <mxGeometry x="336.3" y="800" width="110" height="40" as="geometry" />
+          <mxGeometry x="338.3" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="52BKm61KnsUmxTflWxP2-8" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&lt;br/&gt;mso-no-proof:yes&quot;&gt;releated_block&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="b4dlFitdKbIA1fIOIVNn-1">
+          <mxGeometry x="348.3" y="621" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
