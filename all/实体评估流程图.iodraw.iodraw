@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NIefEjDn_AU6xf2M8-za" name="第 2 页">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0H6k_kMN3h-5kvKoDs0H-0" />
         <mxCell id="0H6k_kMN3h-5kvKoDs0H-1" parent="0H6k_kMN3h-5kvKoDs0H-0" />
@@ -117,6 +117,9 @@
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-2" value="KNN语义检索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="120" y="400" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="T_L5P0kAMbZMSNxfEHLL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0H6k_kMN3h-5kvKoDs0H-1" source="T_L5P0kAMbZMSNxfEHLL-3" target="T_L5P0kAMbZMSNxfEHLL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-3" value="&lt;span style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&lt;br/&gt;mso-no-proof:yes&quot; lang=&quot;EN-US&quot;&gt;vec_data，vec_distance&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="150" y="440" width="110" height="40" as="geometry" />
         </mxCell>
@@ -125,6 +128,9 @@
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-6" value="代码数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="240" y="530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T_L5P0kAMbZMSNxfEHLL-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
+          <mxGeometry x="360" y="330" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
