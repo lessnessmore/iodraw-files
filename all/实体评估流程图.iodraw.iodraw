@@ -106,6 +106,9 @@
         <mxCell id="52BKm61KnsUmxTflWxP2-2" value="边缘端嵌入服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="b4dlFitdKbIA1fIOIVNn-1">
           <mxGeometry x="295" y="309" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="52BKm61KnsUmxTflWxP2-4" value="检索算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b4dlFitdKbIA1fIOIVNn-1">
+          <mxGeometry x="389" y="768" width="66" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
