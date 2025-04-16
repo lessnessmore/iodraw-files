@@ -113,7 +113,7 @@
           <mxGeometry x="167.5" y="440" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-2" value="边缘端嵌入服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="200" y="400" width="110" height="30" as="geometry" />
+          <mxGeometry x="100" y="400" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
