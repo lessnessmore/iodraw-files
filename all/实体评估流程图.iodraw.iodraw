@@ -104,7 +104,7 @@
           <mxGeometry x="260" y="250" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H1Se93IHZ55Gj75diGSp-1" value="边缘端嵌入服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="165" y="298" width="110" height="30" as="geometry" />
+          <mxGeometry x="190" y="298" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_SeJOvSHqzKwki_0ptLu" name="第 4 页">
-    <mxGraphModel dx="1022" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jP09u5dkIPe3pO-SPdhg-0" />
         <mxCell id="jP09u5dkIPe3pO-SPdhg-1" parent="jP09u5dkIPe3pO-SPdhg-0" />
