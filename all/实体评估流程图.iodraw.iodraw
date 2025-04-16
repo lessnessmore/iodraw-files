@@ -91,6 +91,9 @@
         <mxCell id="0H6k_kMN3h-5kvKoDs0H-2" value="工程代码" style="ellipse;whiteSpace=wrap;html=1;" parent="0H6k_kMN3h-5kvKoDs0H-1" vertex="1">
           <mxGeometry x="50" y="80" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="T_L5P0kAMbZMSNxfEHLL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0H6k_kMN3h-5kvKoDs0H-1" source="0H6k_kMN3h-5kvKoDs0H-3" target="T_L5P0kAMbZMSNxfEHLL-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0H6k_kMN3h-5kvKoDs0H-3" value="用户问题嵌入向量" style="rounded=0;whiteSpace=wrap;html=1;" parent="0H6k_kMN3h-5kvKoDs0H-1" vertex="1">
           <mxGeometry x="150" y="350" width="110" height="40" as="geometry" />
         </mxCell>
@@ -107,7 +110,7 @@
           <mxGeometry x="190" y="298" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-0" value="sqlite内存数据" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=12;fontStyle=1" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="165" y="430" width="80" height="70" as="geometry" />
+          <mxGeometry x="165" y="430" width="75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
