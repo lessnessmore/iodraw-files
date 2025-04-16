@@ -155,7 +155,7 @@
           <mxGeometry x="243.3" y="610" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-17" value="FTS5 检索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="411" y="344" width="75" height="26" as="geometry" />
+          <mxGeometry x="387" y="350" width="75" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
