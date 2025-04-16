@@ -113,7 +113,10 @@
           <mxGeometry x="167.5" y="440" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-2" value="KNN语义检索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="105" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="120" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T_L5P0kAMbZMSNxfEHLL-3" value="用户问题嵌入向量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
+          <mxGeometry x="160" y="360" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
