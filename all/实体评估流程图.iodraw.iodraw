@@ -134,13 +134,13 @@
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-4" value="&lt;span style=&quot;font-size:10.5pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&lt;br/&gt;mso-no-proof:yes&quot; lang=&quot;EN-US&quot;&gt;fts_data，fts_rank&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="320" y="395" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T_L5P0kAMbZMSNxfEHLL-6" value="代码数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
+        <mxCell id="T_L5P0kAMbZMSNxfEHLL-6" value="加权融合后的重排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="243.3" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-10" value="加权w1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="200" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T_L5P0kAMbZMSNxfEHLL-11" value="加权w1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
+        <mxCell id="T_L5P0kAMbZMSNxfEHLL-11" value="加权w2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="320" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
