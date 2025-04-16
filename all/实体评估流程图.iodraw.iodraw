@@ -127,10 +127,7 @@
           <mxGeometry x="320" y="395" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-6" value="代码数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="240" y="530" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T_L5P0kAMbZMSNxfEHLL-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-88;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="273.3" y="390" width="50" height="226.57" as="geometry" />
+          <mxGeometry x="243.3" y="550" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
