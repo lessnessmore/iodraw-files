@@ -92,10 +92,13 @@
           <mxGeometry x="50" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0H6k_kMN3h-5kvKoDs0H-3" value="用户问题嵌入向量" style="rounded=0;whiteSpace=wrap;html=1;" parent="0H6k_kMN3h-5kvKoDs0H-1" vertex="1">
-          <mxGeometry x="260" y="340" width="110" height="40" as="geometry" />
+          <mxGeometry x="150" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0H6k_kMN3h-5kvKoDs0H-4" value="代码数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" parent="0H6k_kMN3h-5kvKoDs0H-1" vertex="1">
           <mxGeometry x="380" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1Se93IHZ55Gj75diGSp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0H6k_kMN3h-5kvKoDs0H-1" source="KPDk1naiy0PmTUfvmq-q-0" target="0H6k_kMN3h-5kvKoDs0H-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KPDk1naiy0PmTUfvmq-q-0" value="用户问题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
           <mxGeometry x="260" y="250" width="106" height="40" as="geometry" />
