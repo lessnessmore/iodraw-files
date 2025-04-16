@@ -124,7 +124,7 @@
           <mxGeometry x="320" y="395" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T_L5P0kAMbZMSNxfEHLL-6" value="代码数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0H6k_kMN3h-5kvKoDs0H-1">
-          <mxGeometry x="390" y="90" width="110" height="40" as="geometry" />
+          <mxGeometry x="240" y="530" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
