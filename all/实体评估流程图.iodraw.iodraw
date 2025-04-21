@@ -727,7 +727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zBSoMEbaVSHw7kzOK_vY" name="板端RAG架构图">
-    <mxGraphModel dx="1134" dy="551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,7 +788,7 @@
         <mxCell id="ADHlv-0H_r6hX1oz6ZID-22" value="车书回答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="285" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ADHlv-0H_r6hX1oz6ZID-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.657;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8ItXdXCmy1QpRPMYrSEg-1" edge="1" target="ADHlv-0H_r6hX1oz6ZID-18">
+        <mxCell id="ADHlv-0H_r6hX1oz6ZID-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.657;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8ItXdXCmy1QpRPMYrSEg-1" target="ADHlv-0H_r6hX1oz6ZID-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="507" y="360" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
