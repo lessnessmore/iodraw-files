@@ -1117,7 +1117,10 @@
           <mxGeometry x="484" y="340" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Obb80-jL24KB_BKluH3m-5" value="个性化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="493" y="760" width="54" height="26" as="geometry" />
+          <mxGeometry x="493" y="722.5" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Obb80-jL24KB_BKluH3m-6" value="个性化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612" y="722.5" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
