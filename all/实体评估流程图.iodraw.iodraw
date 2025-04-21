@@ -851,44 +851,44 @@
           <mxGeometry x="115.5" y="394" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于KNN的向量数据检索&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="483" y="262" width="78" height="100" as="geometry" />
+          <mxGeometry x="487" y="154" width="78" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="UVakcrxYrMQmpf90E6Ef-3" target="UVakcrxYrMQmpf90E6Ef-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="526" y="142" as="targetPoint" />
+            <mxPoint x="530" y="34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-3" value="车书数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
-          <mxGeometry x="408" y="117" width="240" height="30" as="geometry" />
+          <mxGeometry x="412" y="9" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="UVakcrxYrMQmpf90E6Ef-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="526" y="172" as="sourcePoint" />
+            <mxPoint x="530" y="64" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-6" value="sqlite-vec" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="406" y="232" width="240" height="30" as="geometry" />
+          <mxGeometry x="410" y="124" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-7" value="全文检索算法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="561" y="262" width="85" height="100" as="geometry" />
+          <mxGeometry x="565" y="154" width="85" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-8" value="将向量表存储为内存表，提升检索效率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="406" y="262" width="79" height="100" as="geometry" />
+          <mxGeometry x="410" y="154" width="79" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-9" value="FTS5" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="543" y="262" width="103" height="20" as="geometry" />
+          <mxGeometry x="547" y="154" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-10" value="KNN" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="473" y="262" width="88" height="20" as="geometry" />
+          <mxGeometry x="477" y="154" width="88" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-11" value="Memory DB" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="406" y="262" width="79" height="20" as="geometry" />
+          <mxGeometry x="410" y="154" width="79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UVakcrxYrMQmpf90E6Ef-13" target="UVakcrxYrMQmpf90E6Ef-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-13" value="Embedding" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="406" y="184" width="240" height="30" as="geometry" />
+          <mxGeometry x="410" y="76" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuwKRGbkz3Ufx8HxEqFM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;strokeWidth=3;" parent="1" source="nuwKRGbkz3Ufx8HxEqFM-2" target="nuwKRGbkz3Ufx8HxEqFM-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1103,6 +1103,15 @@
             <mxPoint x="648" y="568" as="sourcePoint" />
             <mxPoint x="684" y="568" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Obb80-jL24KB_BKluH3m-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Obb80-jL24KB_BKluH3m-2" target="Obb80-jL24KB_BKluH3m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Obb80-jL24KB_BKluH3m-2" value="LLM清洗并格式化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="110.5" y="339" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Obb80-jL24KB_BKluH3m-3" value="格式化车书数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="125.5" y="404" width="90" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
