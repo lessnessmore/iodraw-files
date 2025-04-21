@@ -869,7 +869,7 @@
             <mxPoint x="530" y="64" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UVakcrxYrMQmpf90E6Ef-6" value="sqlite" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
+        <mxCell id="UVakcrxYrMQmpf90E6Ef-6" value="sqlite/sqlite-vec" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="410" y="124" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-7" value="全文检索算法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
