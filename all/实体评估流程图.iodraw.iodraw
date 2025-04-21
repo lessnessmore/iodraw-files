@@ -874,7 +874,7 @@
         <mxCell id="UVakcrxYrMQmpf90E6Ef-8" value="将向量表存储为内存表，提升检索效率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="406" y="262" width="67" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UVakcrxYrMQmpf90E6Ef-9" value="FS5" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
+        <mxCell id="UVakcrxYrMQmpf90E6Ef-9" value="FTS5" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="543" y="262" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-10" value="KNN" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
