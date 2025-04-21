@@ -850,6 +850,9 @@
         <mxCell id="sHkyU6txhRnMJBMmnOQl-15" value="格式化车书数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="115.5" y="394" width="90" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="Obb80-jL24KB_BKluH3m-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UVakcrxYrMQmpf90E6Ef-1" target="Obb80-jL24KB_BKluH3m-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于KNN的向量数据检索&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="487" y="154" width="78" height="100" as="geometry" />
         </mxCell>
@@ -1108,10 +1111,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Obb80-jL24KB_BKluH3m-2" value="LLM清洗并格式化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="110.5" y="339" width="120" height="42" as="geometry" />
+          <mxGeometry x="468" y="278" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Obb80-jL24KB_BKluH3m-3" value="格式化车书数据" style="ellipse;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="404" width="90" height="51" as="geometry" />
+          <mxGeometry x="483" y="343" width="90" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
