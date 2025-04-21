@@ -851,7 +851,7 @@
           <mxGeometry x="115.5" y="394" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于KNN的向量数据检索&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="486" y="262" width="59" height="100" as="geometry" />
+          <mxGeometry x="486" y="262" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="UVakcrxYrMQmpf90E6Ef-3" target="UVakcrxYrMQmpf90E6Ef-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -869,7 +869,7 @@
           <mxGeometry x="406" y="232" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="545" y="262" width="101" height="100" as="geometry" />
+          <mxGeometry x="561" y="262" width="85" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-8" value="将向量表存储为内存表，提升检索效率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="406" y="262" width="79" height="100" as="geometry" />
