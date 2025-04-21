@@ -871,7 +871,7 @@
         <mxCell id="UVakcrxYrMQmpf90E6Ef-7" value="向量和元数据构建成一个虚拟表，提升检索效率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="545" y="262" width="101" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UVakcrxYrMQmpf90E6Ef-8" value="vec0 索引" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
+        <mxCell id="UVakcrxYrMQmpf90E6Ef-8" value="将表存储为内存表，提升检索效率" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="406" y="262" width="67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UVakcrxYrMQmpf90E6Ef-9" value="元数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFE599;" parent="1" vertex="1">
