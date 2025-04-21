@@ -1059,7 +1059,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Le1wGdv-ddy2LRuc37dC-51" value="车书相关数据块" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#67AB9F;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="670" y="716" width="90" height="39" as="geometry" />
+          <mxGeometry x="664" y="716" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Le1wGdv-ddy2LRuc37dC-54" value="车书问答" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" parent="1" vertex="1">
           <mxGeometry x="638.5" y="875" width="71" height="42.5" as="geometry" />
@@ -1119,8 +1119,8 @@
         <mxCell id="Obb80-jL24KB_BKluH3m-5" value="个性化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="493" y="722.5" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Obb80-jL24KB_BKluH3m-6" value="个性化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="612" y="722.5" width="54" height="26" as="geometry" />
+        <mxCell id="Obb80-jL24KB_BKluH3m-6" value="车书" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="618" y="722.5" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
